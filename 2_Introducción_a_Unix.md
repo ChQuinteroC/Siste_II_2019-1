@@ -1,4 +1,4 @@
-# Unidad 2 Introducción a Unix Shell
+# Introducción a Unix Shell
 
 ## Introducción a la Consola y Línea de Comando
 
