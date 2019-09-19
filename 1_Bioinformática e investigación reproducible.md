@@ -4,7 +4,7 @@
 
 Lecturas para esta unidad: 
 
-* Ideology: Data Skills for Robust and Reproducible Bioinformatics. Capítulo 1 de Buffalo V (2015) Bioinformatics data skills.
+* Ideology:[Data Skills for Robust and Reproducible Bioinformatics. Capítulo 1 de Buffalo V (2015) Bioinformatics data skills](http://2.droppdf.com/files/5aTvl/bioinformatics-data-skills.pdf)
     
 * [Guía ROpenSci de reproducibilidad](http://ropensci.github.io/reproducibility-guide/sections/checklist/)
 
@@ -22,7 +22,7 @@ Como biólogo/as evolutivos utilizamos ambas:
 
  La mayoría de la investigación que se publica recientemente utilizó una mezcla de los programas de alguien más (sobretodo en los primeros pasos del procesamiento de datos) y después se utilizan **funciones**  propias para realizar análisis más específicos. 
 
-Este curso empieza por biología computacional y deriba en la posibilidad de que crees tu propio código para analizar tus datos. 
+Este curso empezó por biología computacional (¿ejemplos?)y deriba en la posibilidad de que crees tu propio código para analizar tus datos. 
 
 Aunque la Biología Computacional y la Bioinformática no son lo mismo, tienen mucho en común y se apreden juntas. De aquí en adelante me referiré a análisis bioinformáticos, pero implica ambos tipos de disciplinas.
 
