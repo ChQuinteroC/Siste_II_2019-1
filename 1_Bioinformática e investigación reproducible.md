@@ -103,7 +103,7 @@ Contras:
 
 
 ### Especializados en datos genéticos
-* [NCBI Gene Bank](http://www.ncbi.nlm.nih.gov/genbank/). Banco de datos genéticos desde la secuenciación Sanger. Seguor ya lo conocen.
+* [NCBI Gene Bank](http://www.ncbi.nlm.nih.gov/genbank/). Banco de datos genéticos desde la secuenciación Sanger.
 * [Sequence Read Archive (SRA)](http://www.ncbi.nlm.nih.gov/sra). Rama de NCBI dedicada a datos de secuenciación masiva. 
 * [BOLD](http://www.boldsystems.org/). Dedicado a datos del "barcode de la vida".
 * Y varios más 
@@ -214,17 +214,6 @@ Si respondiste sí (o tus colaboradores) a cualquiera de los anteriores checa es
    * [GitHub](https://github.com/) (mejor para funciones y projectos que continuarán actualizándose).
 
 
-### GitHub
- 
-Es un repositorio de código que:
-
-* Utiliza `git` para llevar un sistema de **control de versiones**,
-* Tiene una interfase Web pública,
-* Se puede bajar como una aplicación de escritorio (Windows, Mac) 
-* Permite escribir/revisar código en equipo
-* Su símbolo es un gatopulpo. 
-
-![](Octocat.png)
 
 
 
