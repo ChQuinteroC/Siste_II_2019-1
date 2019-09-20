@@ -47,13 +47,18 @@ Paso 7: Mostrar matriz de genotypos por individuos
 Paso 7: Fin
 ```
 
+un ejemplo de figura
+
+![Lampara](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/LampFlowchart-es.svg/800px-LampFlowchart-es.svg.png)
+
+
 **Utilidad**
 
 Tener claro el algoritmo con el que solucionaremos un problema nos ayuda a después escrbir el código para realizar cada paso.
 
 ### Algoritmos y scripts
 
-Como vimos en la Unidad 1, un **script** es:
+Un **script** es:
 
 * un archivo de texto plano (**¡¡NO WORD!!**)
 * permanente,
@@ -129,9 +134,8 @@ No solamente los programas bioinformáticos pueden pensarse modularmente, sino t
 
 1. ¿Cuántos pasos tiene este script?
 2. ¿Si quisieras correr este script y que funcionara en tu propio equipo, qué línea deberías cambiar y a qué? 
-2. ¿A qué equivale `$HOME`?
+2. ¿A qué crees que equivale `$HOME`?
 3. ¿Qué paso del análisis hace el programa `gsnap`?
-4. ¿Qué hace en términos generales cada uno de los loops?
 
 
 ```
